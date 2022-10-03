@@ -64,8 +64,7 @@ In a terminal, go to your project directory and run  main.py:
 
 
 # Prototype:
-![](https://github.com/Your_Repository_Name/prototype.gif)
-
+![](prototype.gif)
 
 
 .....
