@@ -64,7 +64,7 @@ In a terminal, go to your project directory and run  main.py:
 
 
 # Prototype:
-![Exemple](https://www.canva.com/design/DAFN8LGkfq4/tGI9FtZgE8qc4c_f52mppg/watch?utm_content=DAFN8LGkfq4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![Exemple](https://github.com/Bechir-karmeni/Handwritten-Digit-Recognition/blob/main/prototype.gif)
 
 
 
