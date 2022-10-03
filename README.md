@@ -63,5 +63,9 @@ In a terminal, go to your project directory and run  main.py:
 >Reporting and Recommender System/untitled.jpynb : jupyter notebook file
 
 
+# Prototype:
+![](https://github.com/Your_Repository_Name/prototype.gif)
+
+
 
 .....
