@@ -9,9 +9,24 @@
 > Python (Jupyter Notebook)
 
 # Optical character recognition or optical character reader (OCR)
-> The handwritten digit recognition is the ability of computers to recognize human handwritten digits. It is a hard task for the
-machine because handwritten digits are not perfect and can be made with many different flavors. The handwritten digit
-recognition is the solution to this problem which uses the image of a digit and recognizes the digit present in the image.
+> Handwritten digit recognition is the ability of a computer
+to recognize the human handwritten digits from different
+sources like images, papers, touch screens, etc, and classify
+them into 10 predefined classes (0-9). This has been a
+topic of boundless-research in the field of deep learning.
+Digit recognition has many applications like number plate
+recognition, postal mail sorting, bank check processing, etc
+. In Handwritten digit recognition, we face many challenges
+because of different styles of writing of different peoples as it
+is not an Optical character recognition. This research provides
+a comprehensive comparison between different machine
+learning and deep learning algorithms for the purpose of
+handwritten digit recognition. For this, we have used Support
+Vector Machine, Multilayer Perceptron, and Convolutional
+Neural Network. The comparison between these algorithms
+is carried out on the basis of their accuracy, errors, and
+testing-training time corroborated by plots and charts that
+have been constructed using matplotlib for visualization.
 
 
 
