@@ -64,7 +64,7 @@ In a terminal, go to your project directory and run  main.py:
 
 
 # Prototype:
-![](prototype.gif)
+![ Gif](https://www.canva.com/design/DAFN8LGkfq4/tGI9FtZgE8qc4c_f52mppg/watch?utm_content=DAFN8LGkfq4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 .....
